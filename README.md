@@ -1,7 +1,7 @@
 # Covid-data-Plotter
 Simple Plotter code to plot graphs using Covid data.
 I am currently still working on the code as I am having some problems with my graphs.
-Plotter to be used to Plot covid data from the site Our World in Data
+Plotter to be used to Plot covid data from the site Our World in Data.
 Data was downloaded from https://ourworldindata.org/coronavirus
 I have in no way contributed to this data and am merely using it in order to practice my coding.
 
