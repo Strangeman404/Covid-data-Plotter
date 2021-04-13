@@ -52,12 +52,11 @@ def plotter(var):
 
     plt.show()
 
-print(day_time)
+x = input(" " + "pick a country")
+print("Available Data: total_cases, new_cases")
+y = input(" " + "pick data type")
+plotter([x,y])
 
-print(plotter(["Greece","total_cases"]))
-
-# print(code)
-# x = input(" " + "pick a country")
-# print("Available Data: total_cases, new_cases")
-# y = input(" " + "pick data type")
-# plotter([x,y])
+"Print Check"
+# print(day_time)
+# print(plotter(["Greece","total_cases"]))
